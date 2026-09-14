@@ -16,3 +16,10 @@ I'm currently working on improving my programming skills and learning more about
 🚀 Projects
 
 I'm currently working on building my experience through coursework and personal projects. I plan to continue adding projects to my GitHub as I develop my skills.
+
+🎯 Goals
+Improve my programming skills
+Build and complete personal projects
+Learn new programming languages and technologies
+Gain experience working with Git and GitHub
+Continue developing my skills as a software developer
