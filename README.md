@@ -12,3 +12,7 @@ HTML & CSS
 📚 Currently Learning
 
 I'm currently working on improving my programming skills and learning more about software development. My goals include becoming more comfortable with Git and GitHub, building projects, and developing a better understanding of the Software Development Life Cycle.
+
+🚀 Projects
+
+I'm currently working on building my experience through coursework and personal projects. I plan to continue adding projects to my GitHub as I develop my skills.
