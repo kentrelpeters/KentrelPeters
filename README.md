@@ -9,3 +9,6 @@ Visual Studio Code
 HTML & CSS
 [Other skills you're learning]
 
+📚 Currently Learning
+
+I'm currently working on improving my programming skills and learning more about software development. My goals include becoming more comfortable with Git and GitHub, building projects, and developing a better understanding of the Software Development Life Cycle.
