@@ -1,25 +1,29 @@
 # Hi, I'm Kentrel Peters 👋
 
-I'm an aspiring software developer currently learning more about programming, software development, and how different technologies work together. I'm interested in building my skills and gaining experience through hands-on projects.
+I'm a student and aspiring software developer interested in full stack development. I enjoy solving problems and learning how the front end and back end work together.
 
-🛠️ Technical Skills
-Programming Languages: [Java, Python, JavaScript, etc.]
-Git & GitHub
-Visual Studio Code
-HTML & CSS
-[Other skills you're learning]
+## Skills I'm building
 
-📚 Currently Learning
+- Python and Flask
+- HTML, CSS, and JavaScript
+- Git and GitHub
+- Visual Studio Code
 
-I'm currently working on improving my programming skills and learning more about software development. My goals include becoming more comfortable with Git and GitHub, building projects, and developing a better understanding of the Software Development Life Cycle.
+## Featured projects
 
-🚀 Projects
+| Project | What it does | Technologies |
+| --- | --- | --- |
+| [My To-Do List](https://github.com/kentrelpeters/todo-app) | A web app for adding tasks and toggling their completion status. | Python, Flask, HTML, CSS |
+| [TechFlow Solutions](https://github.com/kentrelpeters/Collab-deployment) | A sample company website with section navigation and a demonstration contact form. | HTML, CSS, JavaScript, GitHub Actions |
 
-I'm currently working on building my experience through coursework and personal projects. I plan to continue adding projects to my GitHub as I develop my skills.
+Explore my [portfolio](https://github.com/kentrelpeters/Portfolio) for project details and documentation.
 
-🎯 Goals
-Improve my programming skills
-Build and complete personal projects
-Learn new programming languages and technologies
-Gain experience working with Git and GitHub
-Continue developing my skills as a software developer
+## Currently learning
+
+I'm working on understanding the Software Development Life Cycle, writing clearer documentation, and using Git and GitHub to track meaningful improvements.
+
+## Goals
+
+- Build confidence with both front-end and back-end development.
+- Practice testing and documenting projects.
+- Continue improving my coursework projects as I learn.
